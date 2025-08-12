@@ -21,4 +21,4 @@ The goal of this project is to get hands-on experience with the basics of React 
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-learning-project.git
+   git clone https://github.com/hazem537/pizza-menu.git
